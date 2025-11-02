@@ -141,3 +141,7 @@ Designed responsive layout optimized for executive presentations
 - Customer segmentation using RFM analysis
 - Mobile-responsive dashboard version
 - Automated email reports for stakeholders
+
+
+## Dashboard Preview
+![Dashboard Overview](Sales_Insights_2025.jpg)
