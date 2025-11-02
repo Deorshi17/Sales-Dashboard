@@ -1,4 +1,4 @@
-# ** UrbanMart E-Commerce Sales Dashboard **
+# **UrbanMart E-Commerce Sales Dashboard**
 
 ## Project Overview
 An interactive Power BI dashboard designed to track, analyze, and visualize e-commerce sales performance for UrbanMart. This comprehensive analytical solution transforms raw transactional data into actionable business insights, enabling data-driven decision-making across sales, inventory, and customer management functions.
