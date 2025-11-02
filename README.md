@@ -1,5 +1,11 @@
 # **UrbanMart E-Commerce Sales Dashboard**
 
+## Dashboard Preview
+### About
+This Power BI dashboard provides comprehensive sales insights and analysis for UrbanMart.
+
+![Dashboard Overview](Sales_Insights_2025.jpg)
+
 ## Project Overview
 An interactive Power BI dashboard designed to track, analyze, and visualize e-commerce sales performance for UrbanMart. This comprehensive analytical solution transforms raw transactional data into actionable business insights, enabling data-driven decision-making across sales, inventory, and customer management functions.
 Purpose: To provide stakeholders with real-time visibility into sales performance, customer behavior, payment preferences, and regional trends through an intuitive, interactive dashboard interface.
@@ -141,7 +147,3 @@ Designed responsive layout optimized for executive presentations
 - Customer segmentation using RFM analysis
 - Mobile-responsive dashboard version
 - Automated email reports for stakeholders
-
-
-## Dashboard Preview
-![Dashboard Overview](Sales_Insights_2025.jpg)
